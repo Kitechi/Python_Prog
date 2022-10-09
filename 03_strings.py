@@ -1,0 +1,7 @@
+print("Hello World")
+print("I am learning python")
+print('Test for single quotes')
+print("Test for single quotes")
+print('''Test for single quotes''')
+print(" What's up ?")
+print("Salahuddin_strings_clear")
